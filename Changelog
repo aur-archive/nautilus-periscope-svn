@@ -1,0 +1,10 @@
+2012-05-06 Julien Nicoulaud <julien.nicoulaud@gmail.com>
+
+	* r152-2 :
+	Add missing dependency on pyxdg.
+
+2011-11-29 Julien Nicoulaud <julien.nicoulaud@gmail.com>
+
+	* r152-1 :
+	Initial release of the package.
+
